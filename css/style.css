@@ -1,0 +1,71 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #2d2d2d;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+a{
+	color: #ED5832;
+	text-decoration: none;
+}
+
+h1,h3,h2{
+	margin: 0;
+	padding: 0;
+	font-weight: 300;
+}
+
+h1{
+	font-size: 44px;
+	margin-left: 20px;
+	margin-top: 30px;
+
+}
+
+h2{
+	font-size: 30px;
+}
+
+h3{
+	font-size: 20px;
+}
+
+#wrap{
+	width: 960px;
+	margin:30px auto;
+}
+
+header{
+	overflow: auto;
+	margin:auto;
+	width: 960px;
+}
+
+#me{
+	float: left;
+	width: 200px;
+}
+
+#details{
+	float: left;
+
+}
+
+#headline{
+	background-color:#fafafa;
+	margin-left: 0;
+	padding: 20px;
+}
+
+#tech li{
+	display: inline;
+	list-style: none;
+	padding: 20px 40px;
+}
+
+#tech img{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
